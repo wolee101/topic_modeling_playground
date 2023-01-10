@@ -28,3 +28,4 @@ matplotlib == 3.3.0
     - wordcloud == 1.8.0
     - pyldavis == 2.1.2
     - tqdm == 4.61.2
+    - lxml == 4.6.2
