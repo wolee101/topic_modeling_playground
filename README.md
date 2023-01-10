@@ -53,4 +53,6 @@ The contents are grouped into five parts:
 
 Binder allows you to launch the notebook in an executable environment right away. After you launch the binder notebook, run the code in each cell and see the results in an interactive way. To close the notebook, you need to shut down the kernel. Closing a notebook browser tab is not enough to end the kernel. For more information about using Jupyter Notebook, check out [this page](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html).
 
-To start a live Jupyter session without installing dependencies, click the Binder link button below.[![Binder](http://binder.gsbdarc.com/badge_logo.svg)](http://binder.gsbdarc.com/v2/gh/wolee101/topic_modeling_playground/main?labpath=topic_modeling_playground_notebook.ipynb)
+To start a live Jupyter session without installing dependencies, click the Binder link button below.
+
+[![Binder](http://binder.gsbdarc.com/badge_logo.svg)](http://binder.gsbdarc.com/v2/gh/wolee101/topic_modeling_playground/main?labpath=topic_modeling_playground_notebook.ipynb)
