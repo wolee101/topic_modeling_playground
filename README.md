@@ -4,7 +4,7 @@ README.md - Topic Modeling Playground
 ##
 **Project Title**
 
-LDA (Latent Dirichlet Allocation) Topic Modeling Playground  
+**LDA (Latent Dirichlet Allocation) Topic Modeling Playground**  
 
 
 ##
