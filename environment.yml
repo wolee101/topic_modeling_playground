@@ -14,9 +14,8 @@ dependencies:
   - seaborn = 0.10.1
   - pip
   - pip:
-    - bs4 == 4.6.0
+    - bs4 == 0.0.1
     - matplotlib == 3.3.0
     - wordcloud == 1.8.0
     - pyldavis == 2.1.2
     - tqdm == 4.61.2
-
